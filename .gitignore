@@ -1,0 +1,25 @@
+# .gitignore
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore Sass cache
+.sass-cache/
+
+# Ignore dist directory
+dist/
+
+# Ignore IDE specific files
+.idea/
+*.sublime*
+# .vscode/  # Added this line
+
+# Ignore npm debug logs
+npm-debug.log*
