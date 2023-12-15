@@ -1,4 +1,4 @@
-# Hotel Webpage
+# Presentation Webpage
 
 This project is a basic presentation (powerpoint like) that demonstrates pseudo-selectors and animations in css.
 
