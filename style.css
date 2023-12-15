@@ -1,0 +1,15 @@
+:root {
+  --page-1-color: steelblue;
+  --page-2-color: tan;
+  --page-3-color: teal;
+  --page-4-color: slateblue;
+  --animate-speed: 1s;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+  color: white;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
