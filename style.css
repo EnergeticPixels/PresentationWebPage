@@ -19,3 +19,13 @@ body {
 #page-2 { background-color: var(--page-2-color) }
 #page-3 { background-color: var(--page-3-color) }
 #page-4 { background-color: var(--page-4-color) }
+
+.page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 4rem;
+}
