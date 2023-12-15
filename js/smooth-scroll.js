@@ -11,7 +11,7 @@ links.forEach(link => {
     const target = document.querySelector(this.getAttribute('href'));
 
     // Get the offset value and add 50px to it
-    const offset = target.offsetTop - 70;
+    const offset = target.offsetTop - 0;
 
     // Get the speed value, or set a default value of 800ms
     const speed = parseInt(this.getAttribute('data-scroll-speed')) || 800;
